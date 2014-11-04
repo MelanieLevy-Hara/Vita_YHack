@@ -1,4 +1,4 @@
-Vita_YHack
-==========
+yhacklean
+=========
 
-This project was started during YHack and continued by me!
+Lean File Layout for our YHack Project
